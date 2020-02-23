@@ -24,7 +24,7 @@ function iLoveTheBeatles (num) {
   let result = [];
 
   do {
-    result.push()"I love the Beatles!"
+    result.push("I love the Beatles!");
   }
 
 }
