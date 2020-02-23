@@ -23,6 +23,8 @@ function iLoveTheBeatles (num) {
 
   let result = [];
 
-  do 
+  do {
+    
+  }
 
 }
